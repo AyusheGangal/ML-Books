@@ -4,3 +4,4 @@
 /Users/ayushe/repos/my-ref-books/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf filter=lfs diff=lfs merge=lfs -text
 /Users/ayushe/repos/my-ref-books/ML[[:space:]]Machine[[:space:]]Learning-A[[:space:]]Probabilistic[[:space:]]Perspective.pdf filter=lfs diff=lfs merge=lfs -text
 /Users/ayushe/repos/my-ref-books/Practical[[:space:]]MLOps_[[:space:]]Operationalizing[[:space:]]Machine[[:space:]]Learning[[:space:]]Models.pdf filter=lfs diff=lfs merge=lfs -text
+/Users/ayushe/repos/my-ref-books/Hands-On_Machine_Learning_with_Scikit-Learn_Keras_and_Tensorflow_-_Aurelien_Geron.pdf filter=lfs diff=lfs merge=lfs -text
